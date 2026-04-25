@@ -31,9 +31,9 @@ Oscilloscope (to observe output)
 Breadboard / LabVIEW simulation setup
 
 # Circuit Diagram 
-<img width="678" height="392" alt="image" src="https://github.com/user-attachments/assets/1ad62644-ede1-4536-9a32-3d9ecfda79c1" />
+<img width="590" height="300" alt="image" src="https://github.com/user-attachments/assets/1ad62644-ede1-4536-9a32-3d9ecfda79c1" />
 --------------------------------------------------------------------
-<img width="678" height="392" alt="image" src="https://github.com/user-attachments/assets/e2c9cd8c-4ae7-4d93-94a1-2f8994da4ebe" />
+<img width="590" height="300" alt="image" src="https://github.com/user-attachments/assets/e2c9cd8c-4ae7-4d93-94a1-2f8994da4ebe" />
 
 
 
@@ -70,13 +70,10 @@ Example:
 Rf = 10kΩ, Rin = 1kΩ
 Gain = -10
 
-# Project Structure
-Inverting-OpAmp/
-│── inverting_opamp.vi / circuit_diagram.png
-│── README.md
-
 # Applications
-Signal inversion
-Audio amplification
-Analog signal processing
-Active filters
+1. Signal inversion
+2. Audio amplification
+3. Analog signal processing
+4. Active filters
+   
+
