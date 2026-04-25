@@ -14,8 +14,9 @@ Non-inverting terminal (+) connected to ground
 A feedback resistor Rf from output to input
 
 The voltage gain is: Av = -Rf/Rin
+
 	​
-Where:
+ Where:
 Av = Voltage gain
 Rf= Feedback resistor
 Rin = Input resistor
@@ -32,7 +33,7 @@ Breadboard / LabVIEW simulation setup
 
 # Circuit Diagram 
 <img width="590" height="300" alt="image" src="https://github.com/user-attachments/assets/1ad62644-ede1-4536-9a32-3d9ecfda79c1" />
---------------------------------------------------------------------
+
 <img width="590" height="300" alt="image" src="https://github.com/user-attachments/assets/e2c9cd8c-4ae7-4d93-94a1-2f8994da4ebe" />
 
 
