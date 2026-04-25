@@ -14,8 +14,7 @@ Non-inverting terminal (+) connected to ground
 A feedback resistor Rf from output to input
 
 The voltage gain is: Av = -Rf/Rin
-
-	​
+​
  Where:
 Av = Voltage gain
 Rf= Feedback resistor
